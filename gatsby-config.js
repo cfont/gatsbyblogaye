@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Where Food &amp; Tech Meet`,
+    title: `Where Food & Tech Meet`,
     author: {
       name: `Chris Fontenot`,
       summary: `who lives and works on the Internet eating delicious food and showing people how to integrate useful things.`,
