@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Where Food &amp; Tech Meet`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Chris Fontenot`,
+      summary: `who lives and works on the Internet eating delicious food and showing people how to integrate useful things.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
+    description: `A first attempt at using Gatsby.`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `cfont`,
     },
   },
   plugins: [
