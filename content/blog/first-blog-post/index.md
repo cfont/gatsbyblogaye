@@ -1,6 +1,6 @@
 ---
 title: First Blog Post Title
-date: "2021-05-18T18:12:03.284Z"
+date: "2021-05-18"
 description: "First Blog Post Description"
 slug: "first-blog-post"
 ---
