@@ -2,7 +2,7 @@
 title: First Blog Post Title
 date: "2021-05-18T18:12:03.284Z"
 description: "First Blog Post Description"
-slug: first-blog-post
+slug: "first-blog-post"
 ---
 
 This is my first post on my new fake blog! How exciting!
